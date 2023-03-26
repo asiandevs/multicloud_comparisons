@@ -15,6 +15,15 @@ Please let me know if you want to contribute - Any Suggestions / feedback.
 <sup>:page_facing_up:-Documentation</sup>
 
 ### Infrastructure 
+| Function  |AWS | Azure | GCP | OCI |
+| --------  | ------------------- | --------------------- |------------------- | --------------------- |
+| Regions <br /> [Cluster of Data centre ]  | 25   Region     | 60+.  Region                | 24  Region | Region |
+| Availability Zones <br /> [ independent / isolated data centre]     |80 AZ  | 180+ (at least 3 per region)   | 73  Zones   | Availability Domain 
+|Hardware Grouping  within Data centres <br /> [Availability within zone] | Some more data      | data                  | 
+| Point of Presence (POP)  | 230. Edge location  | 130 <br /> spans multiple lines           | 144*. POP | |
+| Countries | 245    | 140             | 200 | 200 |
+| Public Cloud Region  | 245    | 140             | 200 |  [ Region ](https://www.oracle.com/cloud/public-cloud-regions/) |
+
 
 ### Networking 
 | Function  |AWS | Azure | GCP | OCI |

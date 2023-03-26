@@ -2,7 +2,7 @@
 # Multicloud Comparisons
 
 Comparing features and services for different Cloud Service Provider in the AWS Cloud, Azure Cloud, Google Cloud and Oracle Cloud
-Please let me know if you want to contribute - Any Suggestions / feedback. Pull requests are welcome.
+Please let me know if you want to contribute - Any Suggestions / feedback.
 
 - 📫 to reach me **monowar.mukul@gmail.com**. 
 

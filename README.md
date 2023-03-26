@@ -17,6 +17,12 @@ Please let me know if you want to contribute - Any Suggestions / feedback. Pull 
 ### Infrastructure 
 
 ### Networking 
+| Function  |AWS | Azure | GCP | OCI |
+| --------  | ------------------- | --------------------- |------------------- | --------------------- |
+| User / Group | Some more data      | data                  | 
+| Role     |hdladsadslsdadfjdfsdfsdfsfdssdfdsfddsdsdsds  | more data             | ignored
+|Policy | Some more data      | data                  | 
+| Account    | Some long data here  | more data  <br /> spans multiple lines           | \| character
 
 ### Storage
 

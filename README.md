@@ -17,12 +17,12 @@ Please let me know if you want to contribute - Any Suggestions / feedback.
 ### Infrastructure 
 | Function  |AWS | Azure | GCP | OCI |
 | --------  | ------------------- | --------------------- |------------------- | --------------------- |
-| Regions <br /> [Cluster of Data centre ]  | 25   Region     | 60+.  Region                | 24  Region | Region |
-| Availability Zones <br /> [ independent / isolated data centre]     |80 AZ  | 180+ (at least 3 per region)   | 73  Zones   | Availability Domain 
+| Regions <br /> [Cluster of Data centre ]  | 25      | 60+.              | 36  | 41  |
+| Availability Zones <br /> [ independent / isolated data centre]     |80 AZ  | 180+ (at least 3 per region)   | 109  Zones   | Availability Domain 
 |Hardware Grouping  within Data centres <br /> [Availability within zone] | Some more data      | data                  | 
-| Point of Presence (POP)  | 230. Edge location  | 130 <br /> spans multiple lines           | 144*. POP | |
-| Countries | 245    | 140             | 200 | 200 |
-| Public Cloud Region  | 245    | 140             | 200 |  [ Region ](https://www.oracle.com/cloud/public-cloud-regions/) |
+| Point of Presence (POP)  | 230. Edge location  | 130 <br /> spans multiple lines           | 176 POP | |
+| Countries | 245    | 140             | 200 | 22 |
+| Public Cloud Region  | [ Regions ](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)   | [ Regions ](https://azure.microsoft.com/en-us/explore/global-infrastructure/geographies/#overview)         | [ Regions ](https://cloud.google.com/about/locations)|  [ Regions ](https://www.oracle.com/cloud/public-cloud-regions/) |
 
 
 ### Networking 

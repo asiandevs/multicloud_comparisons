@@ -4,4 +4,4 @@ Availability Zones,99 Availability Zones,180+ Availability Zones,112 Zone,Availa
 Hardware Grouping within Data centres,Placement Groups (Partion / Placement),Availability Sets (Update Domain / Fault Domain),,Fault Domains
 Point of Presence (POP),450 ( 400) Edge location,130,176+ POP,
 Countries,245,140,200+,22
-Public Cloud Region,[Region](https://aws.amazon.com/about-aws/global-infrastructure) ,https://azure.microsoft.com/en-us/explore/global-infrastructure/,https://cloud.google.com/about/locations,https://www.oracle.com/cloud/public-cloud-regions/
+Public Cloud Region,[https://aws.amazon.com/about-aws/global-infrastructure] ,https://azure.microsoft.com/en-us/explore/global-infrastructure/,https://cloud.google.com/about/locations,https://www.oracle.com/cloud/public-cloud-regions/

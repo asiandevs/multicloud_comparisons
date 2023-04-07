@@ -7,4 +7,4 @@ Hardware Grouping within Data centres,Placement Groups (Partion / Placement),Ava
 [Availability within zone],,,,
 Point of Presence (POP),450 ( 400) Edge location,130,176+ POP,
 Countries,245,140,200+,22
-Public Cloud Region,[ Regions ](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/) ,Regions,Regions,Regions
+Public Cloud Region,https://aws.amazon.com/about-aws/global-infrastructure/regions_az/ ,https://azure.microsoft.com/en-us/explore/global-infrastructure/geographies/#overview,https://cloud.google.com/about/locations,https://www.oracle.com/cloud/public-cloud-regions/

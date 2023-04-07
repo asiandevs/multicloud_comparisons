@@ -1,4 +1,4 @@
-﻿​Service,AWS,Azure,GCP,OCI
+Service,AWS,Azure,GCP,OCI
 Block Storage ,Amazon Elastic Block Store,Managed Disks,Google Compute Engine Persistent Disks,
 Archive Storage ,Amazon Glacier,Azure Archive Blob Storage,Google Cloud Storage Nearline,
 Shared File System,"Amazon Elastic File System | Avere vFXT for Azure, Azure Files, Azure NetApp Files, Azure FXT Edge Filer",Azure File Storage,Google Cloud Files [ZFS/Avere],File Storage

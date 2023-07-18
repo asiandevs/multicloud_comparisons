@@ -1,5 +1,5 @@
 ﻿​Service,AWS,Azure,Google Cloud,Oracle
-Virtual Private Cloud (VPC),Amazon VPC,Azure Virtual Networks (VNet),Google VPC (Virtual Private Cloud),Virtual Cloud Network
+Virtual Private Cloud (VPC),Amazon VPC,Azure Virtual Networks (VNet),Google VPC (Virtual Private Cloud),VCN is Oracle's equivalent to VPC and VNet
 Default,Default VPC in each region.,Default VNet is not existing.,,No default VCN
 Allowed VPC size range,  /16 to /28,Subnets are from /29 to /8.,,the allowed VCN size range is /16 to /30.
 Reserved  IP address,AWS reserves 5 IP addresses within each subnet,,, reserves 3 IP addresses within each subnet

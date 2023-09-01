@@ -6,12 +6,10 @@ Shared File System,"Amazon Elastic File System | Avere vFXT for Azure, Azure Fil
 Bulk Data Transfer,"AWS Snow Family, AWS Import/Export Service","Azure Data Box, Azure Import/Export Service",Storage Transfer Service,Data Transfer Appliance
 ,AWS Import/Export Service,Azure Import/Export Service,,
 For autobackup ,Azure Backup,N/A,,
-Object Storage Service,,,,
 Object Storage ,Simple Storage Service (S3),Azure Blob Storage,Google Cloud Storage,Object Storage
 Components,S3 is composed of Buckets and objects.,"Blob storage resources: Storage Account, Container, and Blob",,
 Bucket / naming,Name is unique,Name is unique,,
 Visibility,By default disable.,By default disable.,,
-Retrival cost ,,,,
 Max File Size,The maximum file size for each object is 5 TB.," The maximum file size for each blob: Block (190.7 TiB), Append (195 GiB), and page (8 TiB).",,0B or as large as 10 TiB
 Max Storage Size,Bucket capacity is virtually unlimited. ,Single blob container size is the same as the maximum storage account capacity.,,
 Tiers,"S3 tiers: Standard, Standard-IA, One Zone-IA, Intelligent – Tiering, Glacier, Deep Archive ","Blob tiers: Hot, Cool, and Archive.","Google Cloud Storage Nearline, Coldline, and Archive",

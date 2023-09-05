@@ -9,3 +9,4 @@
 | **Countries**                 |245 | 140            | 200+            | 22     |
 | **Public Cloud Region**                      | AWS ([AWS Regions](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)) | Azure ([Azure Regions](https://azure.microsoft.com/en-us/global-infrastructure/regions/)) | GCP ([GCP Locations](https://cloud.google.com/about/locations)) | OCI ([OCI Regions](https://www.oracle.com/cloud/data-regions.html)) |
 
+[multicloud_comparisons](https://github.com/asiandevs/multicloud_comparisons/blob/main/README.md)

@@ -1,5 +1,3 @@
-# Storage
-
 Service,AWS,Azure,GCP,OCI
 Block Storage ,Amazon Elastic Block Store,Managed Disks,Google Compute Engine Persistent Disks,
 Archive Storage ,Amazon Glacier,Azure Archive Blob Storage,Google Cloud Storage Nearline,

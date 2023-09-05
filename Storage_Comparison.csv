@@ -25,5 +25,5 @@ Pricing Model, Pay-as-you-go, Pay-as-you-go, Pay-as-you-go, Pay-as-you-go
 Object Lock, Yes, Yes (soft delete), Yes, Yes
 API Support, S3 REST API, Azure Blob REST API, GCS JSON API, OCI Object Storage API
 Data Analytics Integration, AWS Athena, Azure Data Lake Storage, Google BigQuery, Oracle Cloud Data Analytics
-Security Features, Encryption at rest/in transit, Access control, IAM, Encryption at rest/in transit, Role-based access control, Encryption at rest/in transit, IAM, Encryption at rest/in transit, IAM
+
 Endpoints, Regional endpoints, Global and regional endpoints, Global endpoints, Regional endpoints

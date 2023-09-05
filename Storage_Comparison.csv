@@ -9,7 +9,7 @@ For autobackup ,Azure Backup,N/A,,
 Object Storage ,Simple Storage Service (S3),Azure Blob Storage,Google Cloud Storage,OCI Object Storage
 Components,S3 is composed of Buckets and objects.,"Blob storage resources: Storage Account, Container, and Blob",,
 Visibility,By default private except the bucket owner.,By default private except storage account owner .,By default private except the bucket owner.,By default private except the owner.
-Max File Size,The maximum file size for each object is 5 TB.," The maximum file size for each blob: Block (190.7 TiB), Append (195 GiB), and page (8 TiB).",,0B or as large as 10 TiB
+Object Size Limit, Up to 5 TB, Up to 190.7 TB, Up to 5 TB, Up to 10 GB (uncompressed) or 10 TB (compressed)
 Max Storage Size,Bucket capacity is virtually unlimited. ,Single blob container size is the same as the maximum storage account capacity.,,
 Tiers,"S3 tiers: Standard, Standard-IA, One Zone-IA, Intelligent – Tiering, Glacier, Deep Archive ","Blob tiers: Hot, Cool, and Archive.","Google Cloud Storage Nearline, Coldline, and Archive",
 Lifecycle rule - Auto tiering ,,"Yes, called intelligent-tiering",,"Yes, called Auto-Tiering"
@@ -19,6 +19,11 @@ Durability,Data durability across multi-AZ is 11 9’s.,"Data durability across 
 Replication,Copy objects across S3 buckets in different AWS Regions using Cross-Region Replication.,Copy block blobs between a source and destination account using Object Replication.,Regional and multi-regional replication, across multiple AD 
 CDN,Cache content from a static website with Amazon CloudFront.,Cache content from a static website with Azure CDN.,Google Cloud CDN is a globally distributed and highly scalable, Oracle Cloud CDN is a globally distributed content delivery network designed for accelerating web applications and content delivery.
 Encryption,Encrypt objects using Client-Side and Server-Side Encryption.,Encrypt storage account using Microsoft- and Customer-manage keys.,,"server side encryption with customer provider key or master key stored on VAULT, also client side encryption is supported at the object and metadata level"
+Data Transfer Costs, Data transfer out of AWS, Data transfer in and out of Azure data centers, Data transfer out of GCP, Data transfer out of OCI
+Pricing Model, Pay-as-you-go, Pay-as-you-go, Pay-as-you-go, Pay-as-you-go
+Object Lock, Yes, Yes (soft delete), Yes, Yes
+API Support, S3 REST API, Azure Blob REST API, GCS JSON API, OCI Object Storage API
+Data Analytics Integration, AWS Athena, Azure Data Lake Storage, Google BigQuery, Oracle Cloud Data Analytics
 Endpoint,Endpoint:,Endpoint:,,
 ,<bucketname> .s3. <region> .amazonaws.com,<bucketname> .blob.core.windows.net,,OCI storage buckets are deployed inside compartments
 --,,,,

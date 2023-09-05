@@ -10,11 +10,11 @@ Object Storage ,Simple Storage Service (S3),Azure Blob Storage,Google Cloud Sto
 Components,S3 is composed of Buckets and objects.,"Blob storage resources: Storage Account, Container, and Blob",,
 Visibility,By default private except the bucket owner.,By default private except storage account owner .,By default private except the bucket owner.,By default private except the owner.
 Object Size Limit, Up to 5 TB, Up to 190.7 TB, Up to 5 TB, Up to 10 GB (uncompressed) or 10 TB (compressed)
-Max Storage Size,Bucket capacity is virtually unlimited. ,Single blob container size is the same as the maximum storage account capacity.,,
+Max Storage Size (Per Object), 5 TB, 190.7 TB, 5 TB, 10 GB (uncompressed) or 10 TB (compressed)
 Tiers,"S3 tiers: Standard, Standard-IA, One Zone-IA, Intelligent – Tiering, Glacier, Deep Archive ","Blob tiers: Hot, Cool, and Archive.","Google Cloud Storage Nearline, Coldline, and Archive",
 Object Lifecycle Management, Yes, Yes, Yes, Yes
 Lifecycle Rules, Yes, Yes, Yes, Yes
-versioning,"yes, enabled at the bucket level",,,"Yes, enabled on a bucket, data is not lost when an object is overwritten or when a a delete operation is performed. "
+versioning,"yes, enabled at the bucket level",yes,yes,"Yes, enabled on a bucket, data is not lost when an object is overwritten or when a a delete operation is performed. "
 Replication Rule / policy,replication rules at the bucket level,replication options at the storage account level,GCP uses object versioning and lifecycle policies,replication options at the bucket level
 Durability,Data durability across multi-AZ is 11 9’s.,"Data durability across LRS (11 9’s), ZRS (12 9’s), GRS, and RA-GRS, and RA-GRS (16 9’s).", 11 nines over a given year,11 nines over a given year
 Replication,Copy objects across S3 buckets in different AWS Regions using Cross-Region Replication.,Copy block blobs between a source and destination account using Object Replication.,Regional and multi-regional replication, across multiple AD 

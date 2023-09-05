@@ -1,4 +1,4 @@
-| Category               | AWS                                       | Azure                                   | GCP                                      | OCIC                                   |
+| Category               | AWS                                       | Azure                                   | GCP                                      | OCI                              |
 |------------------------|-------------------------------------------|-----------------------------------------|------------------------------------------|----------------------------------------|
 | **Compute**            | Amazon EC2, AWS Lambda, AWS Elastic Beanstalk | Azure Virtual Machines, Azure Functions | Google Compute Engine, Google Cloud Functions | Oracle Compute, Oracle Functions      |
 | **Container Orchestration** | Amazon ECS, Amazon EKS              | Azure Kubernetes Service (AKS)         | Google Kubernetes Engine (GKE)            | Oracle Kubernetes Engine (OKE)       |
@@ -7,6 +7,4 @@
 | **Source Control**      | AWS CodeCommit                            | Azure DevOps Repos (formerly VSTS)     | Google Cloud Source Repositories          | Oracle Developer Cloud            |
 | **Artifact Repository** | AWS CodeArtifact                          | Azure Artifacts                        | Google Cloud Artifact Registry            | Oracle Cloud Infrastructure Registry |
 | **Infrastructure as Code** | AWS CloudFormation                     | Azure Resource Manager                | Google Cloud Deployment Manager            | Oracle Resource Manager            |
-| **Monitoring and Logging** | Amazon CloudWatch, AWS X-Ray         | Azure Monitor, Azure Application Insights | Google Cloud Monitoring, Google Cloud Logging | Oracle Cloud Monitoring, Oracle Cloud Logging |
-| **Security & Identity** | AWS Identity and Access Management (IAM) | Azure Active Directory (Azure AD)     | Google Cloud Identity and Access Management (IAM) | Oracle Identity Cloud Service     |
-| **Networking**          | Amazon VPC, AWS Direct Connect          | Azure Virtual Network, Azure ExpressRoute | Google Cloud VPC, Google Cloud Interconnect | Oracle Virtual Cloud Network        |
+| **Microservices**       | AWS App Runner, AWS App Mesh             | Azure Service Fabric, Azure Spring Cloud | Google Kubernetes Engine (GKE), Google Cloud Endpoints | Oracle Cloud Native Services        |

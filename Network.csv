@@ -23,6 +23,6 @@ Direct Connection,AWS Direct Connect,Azure ExpressRoute,Google Cloud Interconnec
 DNS Service, Amazon Route 53, Azure DNS, Google Cloud DNS, OCI DNS
 Domain name system (DNS),Amazon Route 53,Azure DNS,"Cloud DNS, Google Cloud DNS",DNS management and traffic management steering policies
 "Build, deploy and manage APIs",Amazon API Gateway,"Azure API Apps, API Management",Apigee API Management Platform,
-Private Connectivity, Direct Connect, VPN Gateway, Azure ExpressRoute, VPN Gateway, Google Cloud Interconnect, VPN Gateway, OCI FastConnect, VPN Connect
+Private Connectivity, Direct Connect|VPN Gateway, Azure ExpressRoute|VPN Gateway, Google Cloud Interconnect|VPN Gateway, OCI FastConnect|VPN Connect
 
 

@@ -27,3 +27,5 @@
 | Domain name system (DNS)                       | Amazon Route 53                          | Azure DNS                                       | Cloud DNS, Google Cloud DNS                    | DNS management and traffic management steering policies |
 | Build, deploy and manage APIs                  | Amazon API Gateway                        | Azure API Apps, API Management                  | Apigee API Management Platform                  |                                               |
 | Private Connectivity                           | Direct Connect|VPN Gateway                 | Azure ExpressRoute|VPN Gateway                   | Google Cloud Interconnect|VPN Gateway           | OCI FastConnect|VPN Connect                     |
+
+[multicloud_comparisons](https://github.com/asiandevs/multicloud_comparisons/blob/main/README.md)

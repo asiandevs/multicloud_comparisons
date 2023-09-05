@@ -3,16 +3,14 @@
 
 Looking to understand the fundamental differences among the top cloud service providers? Dive into our comparison of AWS, Azure, Google Cloud, and Oracle Cloud, where we break down the essential features that set each platform apart. From computing power to storage options, we'll explore the basics to help you make informed decisions about your cloud strategy. Whether you're a beginner or a seasoned cloud architect, this guide offers clarity on the core distinctions.
 
-Interested in contributing or have suggestions? Get in touch!
-
-- 📫 to reach Monowar Mukul **monowar.mukul@gmail.com** or the reviewer, Nassyam Basha **nassyambasha@gmail.com**
+# Get Involved
+We value your contributions and suggestions. 
+- 📫 to share insights and expertise contact Monowar Mukul at **monowar.mukul@gmail.com** or Nassyam Basha, at **nassyambasha@gmail.com** 
 
 ```diff
 - NOTE
-! Make sure any Licence requirements from your side. Cloud providers are continually expanding their global presence, enabling organizations to access their services from a growing number of countries. 
-Please note that the availability and feature may change over time, so please refer to each cloud provider's official documentation for the most up-to-date information on their database offerings and capabilities. 
-As we embark on this cloud comparison journey, keep in mind that while the information presented here provides a solid foundation, the cloud landscape is dynamic.
-For the most up-to-date details on AWS, Azure, GCP, and OCI, always consult the official documentation and websites of the respective providers.
+! please keep in mind that while the information presented here provides a solid foundation, the cloud landscape is dynamic.
+For the most current and accurate details on AWS, Azure, Google Cloud, and Oracle Cloud, we recommend consulting the official documentation and websites of the respective providers.
 ```
 ----------------------------
 # Exploring Different Areas

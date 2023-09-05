@@ -12,7 +12,7 @@ Gateways, i)VPC Gateway ii)Virtual Network Gateway, i)Azure Bastion ii)VPN Gatew
 Route Table,"By default, subnets are automatically associated with the main route table. You can create custom one.",Route tables are not automatically associated with your subnets.,,Default Route Table without local route
 Network area translation,NAT Gateway,"Virtual Network NAT, Azure Route Server (preview)",Cloud NAT,"NAT gateway, Service Gateway"
 Traffic Management, Route 53 Traffic Flow, Traffic Manager, Google Cloud Traffic Director, OCI Traffic Management
-Firewalls, AWS Network Firewall, AWS WAF, Azure Firewall, Google Cloud Firewall, OCI Network Security Groups
+Firewalls, AWS Network Firewall | AWS WAF, Azure Firewall, Google Cloud Firewall, OCI Network Security Groups
 DDoS Protection, AWS Shield, Azure DDoS Protection, Google Cloud Armor, OCI Web Application Firewall (WAF)
 Load balancing,Elastic Load Balancing (ELB),"Application Gateway, Load Balancer, Traffic Manager, Azure DNS",Cloud Load Balancing,OCI Load Balancing Service -includes Load Balancer and Network Load Balancer.
 Peering, VPC Peering, AWS Direct Connect Gateway, Transit Gateway, VNet Peering, Azure Bastion, Google Cloud VPC Peering, OCI Peering

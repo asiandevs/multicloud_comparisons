@@ -16,3 +16,4 @@
 | **Data Security and Compliance** | AWS Lake Formation, AWS Glue DataBrew | Azure Purview, Azure Databricks, Azure Information Protection | Google Cloud Data Catalog, Data Loss Prevention, Identity and Access Management (IAM) | Oracle Data Safe, Oracle Cloud Security Services |
 | **Data Analytics Pricing Model** | Pay-as-you-go, Usage-based pricing  | Pay-as-you-go, Usage-based pricing    | Pay-as-you-go, Usage-based pricing        | Pay-as-you-go, Usage-based pricing  |
 
+[multicloud_comparisons](https://github.com/asiandevs/multicloud_comparisons/blob/main/README.md)

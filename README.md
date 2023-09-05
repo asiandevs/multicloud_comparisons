@@ -14,21 +14,21 @@ Please let me know if you want to contribute - Any Suggestions / feedback.
 <sup>:link:-Product page</sup>
 <sup>:page_facing_up:-Documentation</sup>
 
-### Infrastructure 
+### [Infrastructure](https://github.com/asiandevs/multicloud_comparisons/blob/main/Infrastructure.csv) 
 
 ### [Networking](https://github.com/asiandevs/multicloud_comparisons/blob/main/Network.csv)
 
-### Storage
+### [Storage](https://github.com/asiandevs/multicloud_comparisons/blob/main/storage_comparison.csv)
 
-### Compute
+### [Compute](https://github.com/asiandevs/multicloud_comparisons/blob/main/compute.md)
 
-### Database 
+### [Database](https://github.com/asiandevs/multicloud_comparisons/blob/main/databasefeatures.md) 
 
-### Identity and Security
+### [Identity and Security](https://github.com/asiandevs/multicloud_comparisons/blob/main/identity-security.md)
   
-### Mangement/  Monitoring
+### [Mangement/Monitoring](https://github.com/asiandevs/multicloud_comparisons/blob/main/monitoringfeatures.md)
 
-### DevOps CI/CD
+### [DevOps CICD](https://github.com/asiandevs/multicloud_comparisons/blob/main/devops-cicd.md)
 
 ### Data Analytics 
 

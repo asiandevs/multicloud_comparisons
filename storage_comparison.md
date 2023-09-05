@@ -32,3 +32,5 @@
 | Security Features       | Encryption at rest and in transit, Access control lists (ACLs), Bucket policies, IAM | Encryption at rest and in transit, Role-based access control (RBAC) | Encryption at rest and in transit, IAM | Encryption at rest and in transit, IAM |
 | Endpoints               | Regional endpoints                       | Global and regional endpoints                   | Global endpoints                            | Regional endpoints        |
 
+
+[multicloud_comparisons](https://github.com/asiandevs/multicloud_comparisons/blob/main/README.md)

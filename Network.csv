@@ -15,7 +15,7 @@ Traffic Management, Route 53 Traffic Flow, Traffic Manager, Google Cloud Traffic
 Firewalls, AWS Network Firewall | AWS WAF, Azure Firewall, Google Cloud Firewall, OCI Network Security Groups
 DDoS Protection, AWS Shield, Azure DDoS Protection, Google Cloud Armor, OCI Web Application Firewall (WAF)
 Load balancing,Elastic Load Balancing (ELB),"Application Gateway, Load Balancer, Traffic Manager, Azure DNS",Cloud Load Balancing,OCI Load Balancing Service -includes Load Balancer and Network Load Balancer.
-Peering, VPC Peering, AWS Direct Connect Gateway, Transit Gateway, VNet Peering, Azure Bastion, Google Cloud VPC Peering, OCI Peering
+Peering, VPC Peering | AWS Direct Connect Gateway|Transit Gateway, VNet Peering | Azure Bastion, Google Cloud VPC Peering, OCI Peering
 Content Delivery Network (CDN), Amazon CloudFront, Azure Content Delivery Network (CDN), Google Cloud CDN, OCI Content Delivery Network
 Site-to-Site Connectivity, i)VPN (Virtual Private Network) ii)AWS Direct Connect, i)Azure VPN Gateway ii)ExpressRoute, i)Google Cloud VPN ii)Google Cloud Interconnect, OCI Site-to-Site VPN
 Global Network Presence, Yes, Yes, Yes, Yes

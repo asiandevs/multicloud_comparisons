@@ -21,3 +21,4 @@
 | **Authentication Services**  | Amazon Cognito, AWS Single Sign-On     | Azure Active Directory B2C, Azure Active Directory B2B | Google Identity Platform (OAuth, OIDC) | Oracle Identity Cloud Service (OAuth, OIDC) |
 | **Endpoint Protection**      | AWS Shield (DDoS protection), AWS Web Application Firewall (WAF) | Azure DDoS Protection, Azure Web Application Firewall (WAF) | Google Cloud Armor (DDoS protection), Google Cloud Web Application Firewall (WAF) | Oracle Cloud Infrastructure Web Application Firewall, Oracle Cloud Infrastructure DDoS Protection |
 
+[multicloud_comparisons](https://github.com/asiandevs/multicloud_comparisons/blob/main/README.md)

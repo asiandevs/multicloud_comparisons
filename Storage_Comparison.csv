@@ -12,7 +12,8 @@ Visibility,By default private except the bucket owner.,By default private except
 Object Size Limit, Up to 5 TB, Up to 190.7 TB, Up to 5 TB, Up to 10 GB (uncompressed) or 10 TB (compressed)
 Max Storage Size,Bucket capacity is virtually unlimited. ,Single blob container size is the same as the maximum storage account capacity.,,
 Tiers,"S3 tiers: Standard, Standard-IA, One Zone-IA, Intelligent – Tiering, Glacier, Deep Archive ","Blob tiers: Hot, Cool, and Archive.","Google Cloud Storage Nearline, Coldline, and Archive",
-Lifecycle rule - Auto tiering ,,"Yes, called intelligent-tiering",,"Yes, called Auto-Tiering"
+Object Lifecycle Management, Yes, Yes, Yes, Yes
+Lifecycle Rules, Yes, Yes, Yes, Yes
 versioning,"yes, enabled at the bucket level",,,"Yes, enabled on a bucket, data is not lost when an object is overwritten or when a a delete operation is performed. "
 Replication Rule / policy,replication rules at the bucket level,replication options at the storage account level,GCP uses object versioning and lifecycle policies,replication options at the bucket level
 Durability,Data durability across multi-AZ is 11 9’s.,"Data durability across LRS (11 9’s), ZRS (12 9’s), GRS, and RA-GRS, and RA-GRS (16 9’s).", 11 nines over a given year,11 nines over a given year
@@ -24,6 +25,5 @@ Pricing Model, Pay-as-you-go, Pay-as-you-go, Pay-as-you-go, Pay-as-you-go
 Object Lock, Yes, Yes (soft delete), Yes, Yes
 API Support, S3 REST API, Azure Blob REST API, GCS JSON API, OCI Object Storage API
 Data Analytics Integration, AWS Athena, Azure Data Lake Storage, Google BigQuery, Oracle Cloud Data Analytics
-Endpoint,Endpoint:,Endpoint:,,
-,<bucketname> .s3. <region> .amazonaws.com,<bucketname> .blob.core.windows.net,,OCI storage buckets are deployed inside compartments
---,,,,
+Security Features, Encryption at rest/in transit, Access control, IAM, Encryption at rest/in transit, Role-based access control, Encryption at rest/in transit, IAM, Encryption at rest/in transit, IAM
+Endpoints, Regional endpoints, Global and regional endpoints, Global endpoints, Regional endpoints

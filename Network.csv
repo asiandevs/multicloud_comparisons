@@ -7,9 +7,9 @@ Subnet Types,"Subnets types: Private, Public and VPN-only","Subnets types: Priva
 Static IP Address, Elastic IP, Azure Static Public IP, Static External IP, OCI Public IP
 Reserved IP Address, AWS Reserved IP, Azure Reserved IP, Google Cloud Reserved IP, OCI Reserved IP
 Security,Secure your network using NACLs and Security Groups.,Secure your network using NSGs and ASGs.,Firewall Rules,Security Lists and NSG
-Gateways,"Types of gateways: Internet Gateway, Egress-only, NAT Gateway, Virtual Private Gateway, and Customer Gateway",Types of gateways: VPN Gateway and ExpressRoute Gateway,,
 Gateways, i)VPC Gateway ii)Virtual Network Gateway, i)Azure Bastion ii)VPN Gateway, i)Cloud VPN ii)Interconnect, i)VPN Connect ii)Gateway
-Route Table,"By default, subnets are automatically associated with the main route table. You can create custom one.",Route tables are not automatically associated with your subnets.,,Default Route Table without local route
+Route Tables, AWS Route Table, Azure Route Table, Google Cloud Routes, OCI Route Table
+API Management, AWS API Gateway, Azure API Management, Apigee, OCI API Gateway
 Network area translation,NAT Gateway,"Virtual Network NAT, Azure Route Server (preview)",Cloud NAT,"NAT gateway, Service Gateway"
 Traffic Management, Route 53 Traffic Flow, Traffic Manager, Google Cloud Traffic Director, OCI Traffic Management
 Firewalls, AWS Network Firewall | AWS WAF, Azure Firewall, Google Cloud Firewall, OCI Network Security Groups

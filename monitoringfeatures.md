@@ -1,5 +1,5 @@
 
-# monitoring
+# Monitoring
 
 
 | Monitoring Category        | AWS                                       | Azure                                   | GCP                                      | OCI                                   |

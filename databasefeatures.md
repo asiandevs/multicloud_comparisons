@@ -21,3 +21,4 @@
 | **Database Replication**    | Amazon RDS Read Replicas, Aurora Replicas | Azure SQL Database Geo-Replication | Cloud SQL Read Replicas, Cloud Spanner Replicas | Oracle Data Guard               |
 | **Database Version Control** | AWS Database Migration Service Schema Conversion Tool (SCT) | Azure Database Migration Service Schema Conversion Tool (SCT) | Google Cloud Database Migration Service Schema Conversion Tool (SCT) | Oracle SQL Developer Data Modeler |
 
+[multicloud_comparisons](https://github.com/asiandevs/multicloud_comparisons/blob/main/README.md)

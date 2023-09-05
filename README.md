@@ -30,15 +30,10 @@ Please let me know if you want to contribute - Any Suggestions / feedback.
 
 ### [DevOps CICD](https://github.com/asiandevs/multicloud_comparisons/blob/main/devops-cicd.md)
 
-### Data Analytics 
+### [Data Analytics](https://github.com/asiandevs/multicloud_comparisons/blob/main/dataanalysis.md) 
 
-### AI and ML
+### [AI and ML](https://github.com/asiandevs/multicloud_comparisons/blob/main/ai-ml.md)
 
-### API Platform and Ecosystems   
-
-### Internet of Things (IoT) 
- 
- 
 ----------------------------
 ### Additional Resources
 ----------------------------

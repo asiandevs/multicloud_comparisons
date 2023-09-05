@@ -4,7 +4,7 @@ Default,Default VPC in each region.,Default VNet is not existing.,default networ
 Allowed VPC size range (IPv4),  /16 to /28,Subnets are from /29 to /8.,VPC size range is between /16 and /9,the allowed VCN size range is /16 to /30.
 Reserved IP address,AWS reserves 5 IP addresses within each subnet,,, reserves 3 IP addresses within each subnet
 Subnet Types,"Subnets types: Private, Public and VPN-only","Subnets types: Private, Public and Gateway","Regional Subnets,Auto Mode Subnets","regional, availability domain [ Access type - Private / Public]"
-Static IP Address, Elastic IP, Azure Static Public IP, Static External IP, Reserved IP, OCI Public IP
+Static IP Address, Elastic IP, Azure Static Public IP, Static External IP, OCI Public IP
 Reserved IP Address, AWS Reserved IP, Azure Reserved IP, Google Cloud Reserved IP, OCI Reserved IP
 Security,Secure your network using NACLs and Security Groups.,Secure your network using NSGs and ASGs.,Firewall Rules,Security Lists and NSG
 Gateways,"Types of gateways: Internet Gateway, Egress-only, NAT Gateway, Virtual Private Gateway, and Customer Gateway",Types of gateways: VPN Gateway and ExpressRoute Gateway,,

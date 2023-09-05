@@ -1,6 +1,4 @@
-```
-Please note that the availability and feature set of database services may change over time, so it's essential to refer to each cloud provider's official documentation for the most up-to-date information on their database offerings and capabilities. Additionally, specific features and configurations may vary within each service category.
-```
+# Database
 
 | Database Category        | AWS                                     | Azure                                   | GCP                                      | OCI                                   |
 |--------------------------|-----------------------------------------|-----------------------------------------|------------------------------------------|---------------------------------------|

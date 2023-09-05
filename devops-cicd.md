@@ -33,3 +33,5 @@
 | **Deployment Environments**  | Multiple environments (staging, production, etc.) | Multiple environments (staging, production, etc.) | Multiple environments (staging, production, etc.) | Multiple environments (staging, production, etc.) |
 | **Compliance and Governance** | AWS Organizations (for account management), AWS Config | Azure Policy, Azure Blueprints       | Google Cloud Resource Manager, Identity and Access Management (IAM) | Oracle Cloud Infrastructure Policies, Identity and Access Management (IAM) |
 | **Pricing Model**           | Pay-as-you-go                            | Pay-as-you-go                          | Pay-as-you-go                              | Pay-as-you-go                          |
+
+[multicloud_comparisons](https://github.com/asiandevs/multicloud_comparisons/blob/main/README.md)

@@ -14,11 +14,11 @@
 | **Microservices**       | AWS App Runner, AWS App Mesh             | Azure Service Fabric, Azure Spring Cloud | Google Kubernetes Engine (GKE), Google Cloud Endpoints | Oracle Cloud Native Services        |
 
 
-# CI/CD
+# CICD
 
-| CI/CD            | AWS                                       | Azure                                   | GCP                                      | OCI                              |
+| CICD            | AWS                                       | Azure                                   | GCP                                      | OCI                              |
 |-----------------------------|-----------------------------------------|-----------------------------------------|------------------------------------------|---------------------------------------|
-| **CI/CD Services**          | AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy | Azure DevOps, Azure DevTest Labs      | Google Cloud Build, Google Cloud Deployment Manager | Oracle Developer Cloud, Oracle Cloud DevOps |
+| **CICD Services**          | AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy | Azure DevOps, Azure DevTest Labs      | Google Cloud Build, Google Cloud Deployment Manager | Oracle Developer Cloud, Oracle Cloud DevOps |
 | **Source Control Integration** | AWS CodeCommit, GitHub (integration)  | Azure Repos (formerly VSTS), GitHub (integration) | Google Cloud Source Repositories, GitHub (integration) | Oracle Developer Cloud, GitHub (integration) |
 | **Container Registry**      | Amazon ECR                              | Azure Container Registry               | Google Container Registry                  | Oracle Cloud Infrastructure Registry |
 | **Artifact Management**     | AWS CodeArtifact                        | Azure Artifacts                        | Google Cloud Artifact Registry            | Oracle Cloud Infrastructure Registry |

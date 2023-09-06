@@ -11,3 +11,5 @@
 | **Shared File System**  | Amazon FSx                        | Azure Files, Azure NetApp Files       | Google Cloud Filestore              | OCI File Storage Service                   |
 | **Bulk Data Transfer**  | AWS Snowball, AWS Snowmobile      | Azure Data Box, Azure Data Box Disk, Azure Data Box Heavy | Google Transfer Appliance          | OCI Data Transfer Appliance               |
 | **AutoBackup Options**  | AWS Backup, AWS Database Backup Service | Azure Backup, Azure Site Recovery  | Cloud Storage Transfer Service      | OCI Backup Service, OCI Database Backup |
+
+[multicloud_comparisons](https://github.com/asiandevs/multicloud_comparisons/blob/main/README.md)

@@ -1,17 +1,9 @@
 
-# Storage 
+# Object Storage 
 
 | Service                 | AWS                                     | Azure                                          | GCP                                         | OCI                     |
 | ----------------------- | --------------------------------------- | ----------------------------------------------- | ------------------------------------------- | ----------------------- |
-| Block Storage           | Amazon Elastic Block Store               | Managed Disks                                   | Google Compute Engine Persistent Disks     |                         |
-| Archive Storage         | Amazon Glacier                           | Azure Archive Blob Storage                     | Google Cloud Storage Nearline               |                         |
-| Shared File System      | Amazon Elastic File System, Avere vFXT for Azure, Azure Files, Azure NetApp Files, Azure FXT Edge Filer | Azure File Storage                  | Google Cloud Files [ZFS/Avere], File Storage |                         |
-|                         | Elastic Block Storage (EBS)              | Azure Disk Storage                              | Google Persistent Disks                     | Block volume             |
-| Bulk Data Transfer      | AWS Snow Family, AWS Import/Export Service | Azure Data Box, Azure Import/Export Service     | Storage Transfer Service, Data Transfer Appliance |                         |
-|                         | AWS Import/Export Service                | Azure Import/Export Service                     |                                               |                         |
-| For autobackup         | Azure Backup                            | N/A                                           |                                               |                         |
 | Object Storage          | Simple Storage Service (S3)              | Azure Blob Storage                              | Google Cloud Storage                        | OCI Object Storage      |
-| Components              | S3 is composed of Buckets and objects.   | Blob storage resources: Storage Account, Container, and Blob |                                               |                         |
 | Visibility              | By default private except the bucket owner. | By default private except storage account owner . | By default private except the bucket owner. | By default private except the owner. |
 | Object Size Limit       | Up to 5 TB                               | Up to 190.7 TB                                  | Up to 5 TB                                  | Up to 10 GB (uncompressed) or 10 TB (compressed) |
 | Max Storage Size (Per Object) | 5 TB                          | 190.7 TB                                       | 5 TB                                      | 10 GB (uncompressed) or 10 TB (compressed) |

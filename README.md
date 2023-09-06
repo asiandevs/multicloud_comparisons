@@ -15,11 +15,11 @@ For the most current and accurate details on AWS, Azure, Google Cloud, and Oracl
 ----------------------------
 # Exploring Different Areas
 
-### [Infrastructure](https://github.com/asiandevs/multicloud_comparisons/blob/main/infrastructure.csv) 
+### [Infrastructure](https://github.com/asiandevs/multicloud_comparisons/blob/main/infrastructure.md) 
 
-### [Networking](https://github.com/asiandevs/multicloud_comparisons/blob/main/network.csv)
+### [Networking](https://github.com/asiandevs/multicloud_comparisons/blob/main/network.md)
 
-### [Storage](https://github.com/asiandevs/multicloud_comparisons/blob/main/storage_comparison.csv)
+### [Storage](https://github.com/asiandevs/multicloud_comparisons/blob/main/storage_comparison.md)
 
 ### [Compute](https://github.com/asiandevs/multicloud_comparisons/blob/main/compute.md)
 

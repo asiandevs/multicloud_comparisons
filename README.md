@@ -19,8 +19,8 @@ For the most current and accurate details on AWS, Azure, Google Cloud, and Oracl
 
 ### [Networking](https://github.com/asiandevs/multicloud_comparisons/blob/main/network.md)
 
-### [Storage](https://github.com/asiandevs/multicloud_comparisons/blob/main/storage_comparison.md)
-
+### [Object Storage](https://github.com/asiandevs/multicloud_comparisons/blob/main/obj_storage.md)
+### [Storage](https://github.com/asiandevs/multicloud_comparisons/blob/main/storge.md)
 ### [Compute](https://github.com/asiandevs/multicloud_comparisons/blob/main/compute.md)
 
 ### [Database](https://github.com/asiandevs/multicloud_comparisons/blob/main/databasefeatures.md) 

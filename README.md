@@ -11,9 +11,9 @@ We value your contributions and suggestions.
 ! please keep in mind that while the information presented here provides a solid foundation, the cloud landscape is dynamic.
 For the most current and accurate details on AWS, Azure, Google Cloud, and Oracle Cloud, we recommend consulting the official documentation and websites of the respective providers.
 ```
-----------------------------
-# Exploring Different Areas
-
+------------------------------
+# Exploring Different Services
+------------------------------
 ### [Infrastructure](https://github.com/asiandevs/multicloud_comparisons/blob/main/infrastructure.md) 
 
 ### [Networking](https://github.com/asiandevs/multicloud_comparisons/blob/main/network.md)

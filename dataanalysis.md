@@ -1,5 +1,9 @@
 #  Data Analytics
 
+- NOTE
+! please keep in mind that while the information presented here provides a solid foundation, the cloud landscape is dynamic.
+For the most current and accurate details on AWS, Azure, Google Cloud, and Oracle Cloud, we recommend consulting the official documentation and websites of the respective providers.
+
 | Data Analytics Category    | AWS                                     | Azure                                   | GCP                                      | OCI                                   |
 |---------------------------|-----------------------------------------|-----------------------------------------|------------------------------------------|----------------------------------------|
 | **Data Warehousing**       | Amazon Redshift                         | Azure Synapse Analytics (formerly SQL Data Warehouse) | BigQuery                                   | Oracle Exadata Cloud Service, Oracle Autonomous Data Warehouse |

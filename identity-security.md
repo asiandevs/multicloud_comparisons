@@ -1,5 +1,9 @@
 # Identity & Security
-| Identity & Security Category | AWS                                    | Azure                                   | GCP                                    | OCI                                     |
+- NOTE
+! please keep in mind that while the information presented here provides a solid foundation, the cloud landscape is dynamic.
+For the most current and accurate details on AWS, Azure, Google Cloud, and Oracle Cloud, we recommend consulting the official documentation and websites of the respective providers.
+
+| Category | AWS                                    | Azure                                   | GCP                                    | OCI                                     |
 |-----------------------------|----------------------------------------|-----------------------------------------|----------------------------------------|----------------------------------------|
 | **Identity and Access Management** | AWS Identity and Access Management (IAM) | Azure Active Directory (Azure AD)       | Google Cloud Identity and Access Management (IAM) | Oracle Cloud Identity and Access Management (IAM) |
 | **Multi-Factor Authentication (MFA)** | AWS Identity and Access Management (IAM) MFA | Azure Multi-Factor Authentication (MFA) | Google Cloud Identity and Access Management (IAM) MFA | Oracle Cloud Identity and Access Management (IAM) MFA |

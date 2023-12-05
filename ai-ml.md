@@ -1,5 +1,9 @@
 # AI / ML
 
+- NOTE
+! please keep in mind that while the information presented here provides a solid foundation, the cloud landscape is dynamic.
+For the most current and accurate details on AWS, Azure, Google Cloud, and Oracle Cloud, we recommend consulting the official documentation and websites of the respective providers.
+
 | AI/ML Category            | AWS                                     | Azure                                   | GCP                                      | OCI                                     |
 |---------------------------|-----------------------------------------|-----------------------------------------|------------------------------------------|----------------------------------------|
 | **Machine Learning Services** | Amazon SageMaker                      | Azure Machine Learning Service         | Google Cloud AI Platform                   | Oracle Machine Learning               |
